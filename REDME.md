@@ -1,1 +1,3 @@
-# 3 seminar
+# 3 SEMINAR
+
+## Change from local reporsitory
